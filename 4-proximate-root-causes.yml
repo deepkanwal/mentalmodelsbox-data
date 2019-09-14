@@ -1,0 +1,24 @@
+id: proximate-root-causes
+name: Proximate and Root Causes
+oneliner: >
+  Discovering the root cause of an event involves looking deeper than the
+  immediate causes for that event.
+description: >
+  A proximate cause is the event most closely associated with or immediately
+  responsible for an observed result. This may differ from the root cause.
+  Getting to a root cause often requires a deep dive into the situation using
+  approaches like [Socratic
+  questioning](https://en.wikipedia.org/wiki/Socratic_questioning) or the [5
+  Whys](https://en.wikipedia.org/wiki/5_Whys)
+examples:
+  - >
+    Post-mortem reports for critical failures generally outline proximate causes
+    and how they stem from the root cause. For instance a website was down due
+    servers running out of disk space which was in turn a result of a bug which
+    in turn was a result of poor testing and so on.
+  - >
+    A child repeatedly asking "why?" to answers for an initial question is
+    trying to get to the root cause.
+wikipedia: https://en.wikipedia.org/wiki/Proximate_and_ultimate_causation
+categories:
+  - problem-solving

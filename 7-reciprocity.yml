@@ -1,0 +1,28 @@
+id: reciprocity
+name: Reciprocity
+oneliner: >
+  We tend to feel obligated to repay positive actions towards us (e.g. favors,
+  gifts) even if they are unwanted.
+description: >
+  Reciprocity refers to a social norm in which we feel a sense of obligation
+  when receiving positive actions towards us. For instance, receiving a favor or
+  gift can trigger feelings of indebtedness to repay the act in someway. While
+  reciprocity allows one to build relationships and exchanges, it can be
+  exploited to gain someone's compliance to a request. This is because feelings
+  of obligation can be felt even when receiving a positive action we do not
+  want.
+examples:
+  - >
+    Before attempting to sell something, a salesperson may give you a small gift
+    (e.g. a pen or a free sample). Even if this gift is unwanted, receiving it
+    can still trigger a need to repay the gift, usually in the form of
+    purchasing whatever is being sold.
+  - >
+    A common compliance technique is to start by making a large request that's
+    likely to be rejected followed by a second, smaller request. The second
+    request, which is the intended request, is more likely to be accepted as
+    it's seen as a favor.
+wikipedia: https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)
+categories:
+  - social-phenomena
+  - relationships

@@ -1,0 +1,22 @@
+id: first-principles-thinking
+name: First Principles Reasoning
+oneliner: >
+  Break complex problems into foundational elements and use these elements to
+  build your reasoning.
+description: >
+  A first principle is a foundational assumption or proposition that cannot be
+  derived from other assumption or propositions. By attempting to break down
+  problems into first principles and re-constructing solutions using these
+  building blocks, you're less likely to be biased by prior assumptions. This in
+  turn can lead to more innovative solutions.
+examples:
+  - >
+    A child repeatedly asking "why?" to answers for an initial question is
+    intuitively thinking in first principles.
+  - >
+    A company building a cheaper product than competitors by investigating ways
+    of using the raw materials firsthand instead of just following existing
+    conventions.
+wikipedia: https://en.wikipedia.org/wiki/First_principle
+categories:
+  - problem-solving

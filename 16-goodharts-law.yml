@@ -1,0 +1,24 @@
+id: goodharts-law
+name: Goodhart's Law
+oneliner: >
+  When a measure becomes a target, it ceases to be a good measure.
+description: >
+  Goodhart's Law highlights the issue with focusing solely on the value of a
+  measure as an indication of success or progress. Often, observers will
+  artificially change their behavior to reach a target without caring about the
+  reason for the measure. In other words, they'll try to game the system. The
+  law was originally stated as: "Any observed statistical regularity will tend
+  to collapse once pressure is placed upon it for control purposes."
+examples:
+  - >
+    Google's PageRank algorithm would rank websites based on the number of
+    incoming links from other websites. This led to webmasters gaming the system
+    by artificially increasing the number of links to their website.
+  - >
+    A company requiring writers to write a specific number of words a day will
+    probably produce low quality, filler content as writers try to meet their
+    quota.
+wikipedia: https://en.wikipedia.org/wiki/Goodhart%27s_law
+categories:
+  - biases
+  - social-phenomena

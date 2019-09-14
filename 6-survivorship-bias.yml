@@ -1,0 +1,28 @@
+id: survivorship-bias
+name: Survivorship Bias
+oneliner: >
+  We tend to focus on things that survived and overlook things that didn't. This
+  can lead to overly optimistic beliefs.
+description: >
+  Survivorship bias occurs when we develop a skewed view of a situation by
+  concentrating on the people or things that survived. Things that didn't
+  survive lack visibility and are overlooked. A common result of survivorship
+  bias is overly optimistic beliefs. By focusing primarily on the success
+  stories, we fail to fully understand why the "failures" did not survive, often
+  just assuming that it's due to a lack of qualities found in the survivors.
+  Looking for counter examples when deriving patterns from success stories can
+  be a useful exercise in combating survivorship bias.
+examples:
+  - >
+    sWe often attribute the success of famous entrepreneurs solely to their
+    behavior and overlook things like luck and timing. By ignoring the failed
+    companies that followed similar approaches, we might be overly optimistic
+    about the likelihood of our own entrepreneurial success.
+  - >
+    It's easy to perceive music from the past as being higher quality than
+    contemporary works. Music from the past, however, has gone through a
+    selection process where higher quality works have survived. With
+    contemporary music, we hear the mediocre along with the good.
+wikipedia: https://en.wikipedia.org/wiki/Survivorship_bias
+categories:
+  - biases

@@ -1,0 +1,31 @@
+id: sunk-cost-fallacy
+name: Sunk Cost Fallacy
+oneliner: >
+  We have a tendency to continue an endeavor after investing resources into it
+  even if it's no longer worthwhile.
+description: >
+  The sunk cost fallacy describes our resistance to stop an endeavor after
+  investing time, money or effort into it. This limits our ability to see its
+  worth in present terms and potentially misallocate additional resources on it.
+  In other words, we're not cutting our losses. Ideally, we would make decisions
+  regarding an endeavor based on relevant information--suck costs are almost
+  always irrelevant.
+examples:
+  - >
+    When selling a used car, the amount originally paid should have not factor
+    into the decision to sell it. Rather, the decision to sell the car should be
+    based on if the owner will get more value from selling it at the current
+    resale price versus keeping it.
+  - >
+    When working on a business that's not picking up any traction, we may feel
+    obligated to continue due to amount of time and money we've poured into it.
+    That effort is a sunk cost, future decisions regarding the business should
+    ignore it. See also: [escalation of
+    commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment).
+  - >
+    Leaving in the middle of a sports game might feel like we're wasting the
+    money spent on the ticket. However that money has already been spent, it
+    should not impact future decisions.
+wikipedia: https://en.wikipedia.org/wiki/Sunk_cost
+categories:
+  - biases

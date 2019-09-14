@@ -1,0 +1,25 @@
+id: social-proof
+name: Social Proof
+oneliner: >
+  We tend to copy the behavior of others, especially during times of
+  uncertainty.
+description: >
+  Social proof is a term used to describe our tendency to follow the behavior of
+  others. This tendency is amplified if we are uncertain about the situation.
+  Social proof generally guides us into making fewer mistakes—if many folks are
+  doing something, it’s usually the correct thing to do. However, this
+  “auto-pilot” behavior can be easily exploited to manipulate our decision
+  making process. For instance, to lead us towards a decision that serves
+  someone else's interests or is incorrect.
+examples:
+  - >
+    Laugh tracks in TV shows and hired clappers in a theater performance can
+    trick us into perceiving the content to be funnier or higher quality than it
+    actually is.
+  - >
+    Testimonials increase our likelihood of buying a product, especially when
+    they indicate popularity. Terms like “best selling” or “recommended by 9 out
+    of 10 professionals” are marketing applications of social proof.
+wikipedia: https://en.wikipedia.org/wiki/Social_proof
+categories:
+  - social-phenomena

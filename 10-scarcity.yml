@@ -1,0 +1,28 @@
+id: scarcity
+name: Scarcity
+oneliner: >
+  We tend to place higher value on things that are rare and lower value on
+  things that are abundant.
+description: >
+  Scarcity refers to our tendency to place value on things according to how rare
+  they are. It's often used as a mental shortcut to assess the value of
+  something based on how easy or difficult is it to acquire. Scarcity doesn't
+  just apply to objects--it can also be applied to things like time and
+  information. For instance, we might place high value on spending some time
+  with a busy individual or getting access to confidential information. Since
+  scarcity can increase our desire for something, it's often artificially
+  created to sell something. A good strategy to combat this desire is to
+  remember that scarcity only increases our desire to obtain something and
+  doesn't affect the actual value we'll extract from it.
+examples:
+  - >
+    Sales techniques likes setting deadlines on promotions or indicating that
+    limited quantities are available are designed to drive up scarcity driven
+    desire for the item being sold.
+  - >
+    When information is censored, we not only feel a stronger desire to know
+    about it and but also tend to be more favorable to it.
+wikipedia: https://en.wikipedia.org/wiki/Scarcity_(social_psychology)
+categories:
+  - social-phenomena
+  - biases

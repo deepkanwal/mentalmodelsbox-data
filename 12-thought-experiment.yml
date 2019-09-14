@@ -1,0 +1,29 @@
+id: thought-experiment
+name: Thought Experiment
+oneliner: >
+  We can explore a theory by imagining an experiment for it and thinking through
+  its potential consequences.
+description: >
+  A thought experiments is a technique used to explore a hypothesis, theory or
+  principle by thinking through what its consequences would be. These
+  experiments are not actually performed and are often impossible to set up. The
+  intent is not to prove something, but rather to explore difficult questions
+  through speculation and logical thinking. Hopefully, the results of this
+  thinking will lead us down interesting paths we might otherwise miss. Some
+  examples are: "What will happen if this event occurs?", "If B happened instead
+  of A, how might things differ?", "If something happens in the future, what
+  might cause it?".
+examples:
+  - >
+    Einstein imagined what would happen if someone chased a light beam and
+    caught up. The results of this thought experiment lead him to special
+    relativity. Note that this experiment was not actually performed and the
+    theory was proven using other empirical means.
+  - >
+    The [trolly problem](https://en.wikipedia.org/wiki/Trolley_problem) is a
+    famous thought experiment in the field of ethics. It's often referenced with
+    thinking about the design of self-driving cars.
+wikipedia: https://en.wikipedia.org/wiki/Thought_experiment
+categories:
+  - problem-solving
+  - modeling

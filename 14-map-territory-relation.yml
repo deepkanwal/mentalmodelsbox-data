@@ -1,0 +1,34 @@
+id: map-territory-relation
+name: Map and Territory Relation
+oneliner: >
+  While models are useful in explaining reality, they are not reality itself.
+description: >
+  Often described as "the map is not the territory", this mental model refers to
+  the relationship between an object and a representation of that object. A map
+  is an abstraction and imperfect representation of a territory--it is not the
+  territory itself. Abstractions are a necessary step in simplifying the
+  complexities of reality. After all, imagine how difficult it'd be to drive in
+  an unknown area without a map. However, we should be aware that these
+  abstractions have limitations and are created using assumptions that may not
+  always be true. This applies to mental models as well--while useful in
+  explaining common situations, reality is not bound to conform to these models.
+examples:
+  - >
+    Newton's laws of motion are a model explaining physical phenomena. While an
+    excellent approximation for most cases, these laws do not hold when working
+    at very small scales, at very high speeds, or in very strong gravitation
+    fields. These cases require different models.
+  - >
+    [The Treachery of
+    Images](https://en.wikipedia.org/wiki/The_Treachery_of_Images) is a famous
+    painting of a pipe with a caption stating this is not a pipe. In describing
+    it, painter René Magritte said, "...could you stuff my pipe? No, it's just a
+    representation, is it not? So if I had written on my picture 'This is a
+    pipe', I'd have been lying!"
+  - >
+    [This classic clip](https://www.youtube.com/watch?v=DOW_kPzY_JY) from The
+    Office of Michael Scott driving into a lake is a literal example of the map
+    not being the territory.
+wikipedia: https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation
+categories:
+  - modeling

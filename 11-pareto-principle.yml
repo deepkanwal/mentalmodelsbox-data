@@ -1,0 +1,26 @@
+id: pareto-principle
+name: Pareto Principle
+oneliner: >
+  For many scenarios, 80% of the effects stem from 20% of the causes. This is
+  often referred to as the 80/20 rule.
+description: >
+  In 1896, economist [Vilfredo
+  Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto) found that 20% of the
+  population in Italy owned 80% of the land. This ratio is commonly cited in
+  wealth distribution (the richest 20% owns the majority of the world's income)
+  and in business management (80% of sales come from 20% of clients). Another
+  application is managing workload--by prioritizing the 20% most important work,
+  we can (at times) gain 80% of the value. Note that while the Pareto principle
+  can be a useful construct in many situations, it's not applicable everywhere.
+  See also: [Power Law](https://en.wikipedia.org/wiki/Power_law).
+wikipedia: https://en.wikipedia.org/wiki/Pareto_principle
+examples:
+  - >
+    Microsoft once noted that fixing the top 20% of reported bugs would solve
+    80% of issues and crashes in a system.
+  - >
+    Many companies find that majority of revenue comes from a small portion of
+    the product. For example, video rental shops in 1988 found that 80% of
+    revenue came from 20% of the titles.
+categories:
+  - modeling

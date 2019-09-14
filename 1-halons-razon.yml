@@ -1,0 +1,19 @@
+id: hanlons-razor
+name: Hanlon's Razor
+oneliner: >
+  Never attribute to malice that which is adequately explained by stupidity.
+description: >
+  Hanlon's razor asks for reflection in situations where we perceive behavior 
+  to be intentionally malicious. A useful exercise is to rethink the scenario 
+  by replacing the malicious intent with reasons such as stupidity, stress or 
+  just plain old misunderstanding.
+examples: 
+  - >
+    Your five-year old probably isn't making a mess to make your life miserable 
+    but rather because they're a toddler.
+  - >
+    A social networking website probably didn't flag your content out of malice 
+    but rather due to a faulty algorithm.
+wikipedia: https://en.wikipedia.org/wiki/Hanlon%27s_razor
+categories: 
+ - relationships

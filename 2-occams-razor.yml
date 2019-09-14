@@ -1,0 +1,23 @@
+id: occams-razor
+name: Occam's Razor
+oneliner: >
+  When comparing hypotheses, the one with the fewest assumptions should be
+  selected.
+description: >
+  Occam's razor originally stated that entities should not be multiplied
+  unnecessarily. In other words, don't complicate things when you don't need to.
+  By shaving off unnecessary additions, the resulting explanation tends  to be
+  less ambiguous, easier to verify, and just plain simpler. Occam's  Razor is
+  often mentioned when selecting a simple solution over a complex  one. Note
+  that this is a slightly stronger form than the principle  intended--reality
+  can be complex and there are cases where the simple  solution is not correct.
+examples:
+  - >
+    A sore throat during during the winter is probably the result of a cold even
+    though the symptoms match a rare terminal disease on WebMD.
+  - >
+    The pyramids being built by humans has far less assumptions than the
+    pyramids being built by aliens.
+wikipedia: https://en.wikipedia.org/wiki/Occam%27s_razor,
+categories:
+  - problem-solving

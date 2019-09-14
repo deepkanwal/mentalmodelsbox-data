@@ -1,0 +1,27 @@
+id: confirmation-bias
+name: Confirmation Bias
+oneliner: >
+  We have a tendency to perceive things in a way that re-enforces or aligns with
+  our preexisting beliefs.
+description: >
+  Confirmation bias is a cognitive bias that causes us to see things in a way
+  that confirms our preexisting beliefs. Because it involves selectively
+  collecting and recalling information, the end result is a biased view point.
+  In addition, confirmation bias may also cause us to ignore information that
+  doesn't support our views. Closely related is the feeling of [cognitive
+  dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) which refers
+  to the discomfort we feel when holding contradictory beliefs.
+examples:
+  - >
+    In social media, we're often shown content that we're more likely to agree
+    with. This amplifies confirmation bias--we only see things consistent with
+    our beliefs resulting a sort of "echo chamber". For more on this, see
+    [filter bubbles](https://en.wikipedia.org/wiki/Filter_bubble).
+  - >
+    Belief in farfetched conspiracy theories can often be a result of
+    confirmation bias. If one tries hard enough, they can find things that seem
+    to support the theory while ignoring the evidence that refutes it.
+wikipedia: https://en.wikipedia.org/wiki/Confirmation_bias
+categories:
+  - biases
+  - relationships

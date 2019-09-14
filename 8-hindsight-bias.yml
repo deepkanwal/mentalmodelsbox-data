@@ -1,0 +1,29 @@
+id: hindsight-bias
+name: Hindsight Bias
+oneliner: >
+  The feeling that we could have predicted an event after it occurs (i.e. we
+  "knew it all along").
+description: >
+  Hindsight bias is the feeling we get when we perceive an event as being
+  predictable, even though there's little evidence to suggest we could have
+  predicted it. Once the event has occurred, it's easy to work backwards and
+  find explanations. While hindsight bias can result in increased confidence and
+  performance, too much can lead to overconfidence and an inability to learn
+  from experience. For instance, by assuming that we could have done better than
+  others after knowing the results of their actions, we lost an opportunity to
+  understand why those actions were made.
+examples:
+  - >
+    In court, judgement of a defendant can be clouded by hindsight bias. The
+    jury, knowing the outcome of the defendant's actions, might feel as if they
+    could have predicted the outcome.
+  - >
+    We may feel that people in the past were less intelligent or innovative than
+    those of the present without acknowledging that they did not access to
+    present day information. Related: [Historian's
+    fallacy](https://en.wikipedia.org/wiki/Historian%27s_fallacy) and
+    [chronological
+    snobbery](https://en.wikipedia.org/wiki/Chronological_snobbery).
+wikipedia: https://en.wikipedia.org/wiki/Hindsight_bias
+categories:
+  - biases

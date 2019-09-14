@@ -1,0 +1,21 @@
+id: gamblers-fallacy
+name: Gambler's Fallacy
+oneliner: >
+  The mistaken belief that a random event is more or less likely to occur based
+  on past outcomes.
+description: >
+  Past occurrences of an independent random event have no impact of future
+  occurrences. For instance, the probability of getting heads in a coin toss is
+  1/2 regardless of the previous tosses. If we encounter a dozen heads in a row,
+  we may feel that the next toss will be tails to balance things out. This is a
+  mistaken belief--the probability of tails remains 1/2, the same as in previous
+  tosses.
+examples:
+  - >
+    A game of roulette at Monte Carlo Casino on August 18, 1913 is perhaps the
+    most iconic example of the fallacy. The ball fell in the black 26 times in a
+    row causing gamblers to lose millions in the mistaken belief that the
+    probability of red was now higher.
+wikipedia: https://en.wikipedia.org/wiki/Gambler%27s_fallacy
+categories:
+  - biases
