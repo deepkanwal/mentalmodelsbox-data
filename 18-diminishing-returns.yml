@@ -1,15 +1,15 @@
 id: diminishing-returns
 name: Diminishing Returns
 oneliner: >
-  In productive processes, the value gained from adding a resource will
-  eventually start decreasing.
+  In productive processes, the value gained from increasing one input but
+  keeping others the same will at some point start decreasing.
 description: >
   When producing something, there are inputs and results. The law of diminishing
   returns states that simply increasing one input but keeping others the same
   will at some point yield diminishing results.  In some cases, this can be
-  improved by adjusting other inputs appropriately (e.g. if increasing factory
-  workers, also add more machines and increase factory space) but in other
-  cases, the production may be inherently difficult to parallelize.
+  improved by adjusting other inputs appropriately. For example, if adding more
+  workers to a factory, we can also add more machines and working space. In
+  other cases, the production may be inherently difficult to parallelize.
 examples:
   - >
     [Brook’s law](https://en.wikipedia.org/wiki/Brooks%27s_law) states that just
@@ -17,11 +17,9 @@ examples:
     Ramp-up time, communication overhead, and the indivisibility of certain
     tasks may in fact slow it down.
   - >
-    When working on a business that's not picking up any traction, we may feel
-    obligated to continue due to amount of time and money we've poured into it.
-    That effort is a sunk cost, future decisions regarding the business should
-    ignore it. See also: [escalation of
-    commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment)
+    In our personal lives, we may find that doing too much of something may lead
+    to diminishing (or even negative) returns. For instance, over editing a
+    piece of writing or continuing to tweak a painting.
 wikipedia: https://en.wikipedia.org/wiki/Diminishing_returns
 categories:
   - modeling
