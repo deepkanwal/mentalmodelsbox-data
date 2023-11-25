@@ -3,17 +3,18 @@ name: Recency Bias
 oneliner: >
   We tend to place greater emphasis on recent events over past ones.
 description: >
-  Events that have occurred recently tend to be seen as more important than 
-  historic events. This is often just because the event is fresh in our memory 
-  as opposed to its actual importance. The perceived importance of recent 
-  events will likely drop with time. 
+  Events that have occurred recently tend to be seen as more important than
+  historic events. This is often just because the event is fresh in our memory
+  as opposed to its actual importance. Given that the perceived importance of
+  recent events will likely drop with time, recency-bias can lead to skewed
+  perceptions and poor decision-making.
 examples:
   - >
-    Employee reviews are prone to recency bias. The performance of work done 
+    Employee reviews are prone to recency bias. The performance of work done
     most recently will disproportionally impact the final review.
   - >
-    In Law, the closing argument given by the defence is seen to have an 
-    advantage as it's the freshest in the jury's memory. 
+    In Law, the closing argument given by the defense is seen to have an
+    advantage as it's the freshest in the jury's memory.
 wikipedia: https://en.wikipedia.org/wiki/Recency_bias
 categories:
   - biases

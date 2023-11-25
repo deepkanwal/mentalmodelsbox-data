@@ -1,0 +1,24 @@
+id: premacks-principle
+name: Premack's Principle
+oneliner: >
+  More probable / desirable behaviors can reinforce less probable / desirable behaviors.
+description: >
+  Premack's Principle, often used in psychology, suggests that more desirable
+  activities can motivate and reinforce less desirable ones. It's based on the
+  idea that if a person wants to do a particular activity, they can use that
+  desire as a reward for completing a less appealing task first. This principle
+  is especially useful in behavior modification, education, and self-discipline
+  strategies, helping individuals or educators to encourage the completion of
+  necessary but less appealing tasks by following them with more enjoyable
+  activities.
+examples:
+  - >
+    A child who enjoys playing video games can be encouraged to finish homework
+    first, using game time as a reward.
+  - >
+    An employee who loves coffee breaks can use the break as a motivation to
+    complete a challenging report.
+wikipedia: https://en.wikipedia.org/wiki/Premack's_principle
+categories:
+- motivation
+  

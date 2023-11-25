@@ -1,0 +1,23 @@
+id: hyperbolic-discounting
+name: Hyperbolic Discounting
+oneliner: >
+  People tend to choose smaller, immediate rewards over larger, later rewards.
+description: >
+  Hyperbolic discounting is a cognitive bias where individuals prefer smaller,
+  immediate rewards to larger, delayed ones. This model explains why people
+  often opt for immediate gratification, even when waiting would yield a better
+  outcome. This behavior is contrary to the "rational" choice model in economics
+  and highlights the human tendency to disproportionately value the present over
+  the future. Understanding this bias can help in making more rational long-term
+  decisions, such as saving for retirement or maintaining healthy habits.
+examples:
+  - >
+    Choosing to spend money on a luxury item now rather than saving it for a
+    larger purchase or investment in the future.
+  - >
+    Opting for an unhealthy snack for immediate satisfaction, despite long-term
+    health goals.
+wikipedia: https://en.wikipedia.org/wiki/Hyperbolic_discounting
+categories:
+  - biases
+  - modeling
