@@ -36,11 +36,11 @@ File names use the following structure:
 
 Models currently use one or more of the following categories:
 
+* behavioral-economics
 * biases
-* modeling
-* problem-solving
-* relationships
-* social-phenomena
+* decision-making
+* rational-thinking
+* social-dynamics
 
 If you are adding additional categories, please update past models with them (if applicable). 
 
