@@ -1,7 +1,7 @@
 id: premacks-principle
 name: Premack's Principle
 oneliner: >
-  More probable / desirable behaviors can reinforce less probable / desirable behaviors.
+  More desirable behaviors can be used to reinforce less desirable behaviors.
 description: >
   Premack's Principle, often used in psychology, suggests that more desirable
   activities can motivate and reinforce less desirable ones. It's based on the

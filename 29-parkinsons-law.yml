@@ -1,0 +1,24 @@
+id: parkinsons-law
+name: Parkinson's Law
+oneliner: >
+  Work tends to expands to fill the time available for its completion.
+description: >
+  Parkinson's Law is the adage that "work expands to fill the time available for
+  its completion", suggesting that the duration of a task is dictated by the
+  deadline set for it, rather than by the amount of work involved. This concept
+  implies that if you give yourself a week to complete a two-hour task, then
+  (psychologically speaking)  the task will increase in complexity and become
+  more daunting so as to fill that week. It highlights the inefficiencies in
+  time management and suggests the importance of setting appropriate deadlines
+  to increase productivity.
+examples:
+  - >
+    A student given two weeks to prepare a presentation will likely use the
+    entire period, even if the actual work could be completed in a few days.
+  - >
+    An employee assigned a minor task with a long deadline might over-complicate
+     the task, making it more time-consuming than necessary.
+wikipedia: https://en.wikipedia.org/wiki/Parkinson%27s_law
+categories:
+  - decision-making
+  - rational-thinking

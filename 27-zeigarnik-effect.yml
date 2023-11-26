@@ -1,0 +1,25 @@
+id: zeigarnik-effect
+name: Zeigarnik Effect
+oneliner: >
+  We tend to remember unfinished tasks better than completed ones.
+description: >
+  The Zeigarnik Effect is a psychological phenomenon that suggests people
+  remember uncompleted or interrupted tasks better than completed tasks. Named
+  after Soviet psychologist Bluma Zeigarnik, who first studied the phenomenon,
+  it implies that incomplete tasks create a kind of mental tension that
+  improves recall. This can be applied in various fields, such as education and
+  project management, to enhance productivity and learning by structuring tasks
+  and breaks effectively.
+examples:
+  - >
+    Students are more likely to remember the contents of a study session if they
+     take a break in the middle, leaving some material unfinished until they
+    return.
+  - >
+    Cliffhangers in TV shows and books exploit the Zeigarnik Effect by leaving
+    the audience eagerly anticipating the resolution in future episodes or
+    chapters.
+wikipedia: https://en.wikipedia.org/wiki/Zeigarnik_effect
+categories:
+  - biases
+  - rational-thinking

@@ -1,0 +1,24 @@
+id: endowment-effect
+name: Endowment Effect
+oneliner: >
+  We tend to value things we own higher than we would if we didn't own them.
+description: >
+  The Endowment Effect is a cognitive bias that causes people to ascribe more
+  value to things merely because they own them. This effect suggests that people
+  are more likely to retain an object they own than acquire that same object
+  when they do not own it. This bias can lead to irrational decision-making in
+  various contexts, from personal possessions to financial investments, where
+  owners overvalue what they own and demand more to give them up than they would
+  be willing to pay to acquire them if they did not own them.
+examples:
+  - >
+    A person might refuse to sell a family heirloom at market price, valuing it
+    more due to its personal significance and ownership history.
+  - >
+    Investors might hold on to stocks or real estate longer than rational
+    analysis would suggest, simply because they own these assets and overvalue
+    them compared to if they were potential buyers.
+wikipedia: https://en.wikipedia.org/wiki/Endowment_effect
+categories:
+  - behavioral-economics
+  - biases

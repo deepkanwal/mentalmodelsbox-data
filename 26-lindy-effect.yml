@@ -1,0 +1,25 @@
+id: lindy-effect
+name: Lindy Effect
+oneliner: >
+  Things that have been around for a while are likely to continue to stick
+  around.
+description: >
+  The Lindy Effect is a theory that suggests the future life expectancy of
+  non-perishable things, such as a technology, an idea, or a book, is
+  proportional to their current age. This means the longer something
+  non-perishable  has been around, the longer it is likely to continue to exist.
+  This concept is  often used to discuss the longevity of cultural items or
+  technologies,  suggesting that those which have proven their durability over
+  time are likely  to remain relevant or in use for an extended period.
+examples:
+  - >
+    Classical works of literature, like those by Shakespeare, having been around
+     for centuries, are likely to remain relevant and read for many more years.
+  - >
+    The QWERTY keyboard layout, despite its inefficiencies, has been in use
+    since the 19th century and is likely to continue being the standard due to
+    its widespread adoption and familiarity.
+wikipedia: https://en.wikipedia.org/wiki/Lindy_effect
+categories:
+  - rational-thinking
+  - social-dynamics
